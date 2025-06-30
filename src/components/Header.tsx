@@ -30,7 +30,7 @@ export function Header() {
               <Scale className="w-8 h-8" />
             </div>
             <h1 className="text-4xl md:text-5xl font-bold">
-              Terms TL;DR
+              SubClause
             </h1>
             <Zap className="w-6 h-6 ml-2 text-yellow-300" />
           </div>

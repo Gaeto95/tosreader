@@ -21,7 +21,7 @@ export function ExportPanel({ result, theme }: ExportPanelProps) {
           `📊 Transparency Score: ${result.transparencyScore}%`,
           '',
           '⚠️ This analysis is for educational purposes only and does not constitute legal advice.',
-          '🔗 Analyzed with Terms TL;DR'
+          '🔗 Analyzed with SubClause'
         ].join('\n');
         
         await navigator.clipboard.writeText(summaryText);
@@ -47,7 +47,7 @@ export function ExportPanel({ result, theme }: ExportPanelProps) {
 
 Found ${result.redFlags.length} red flags including ${result.redFlags.filter(f => f.severity >= 4).length} high-risk issues.
 
-Know what you're signing with Terms TL;DR! #TermsAndConditions #Privacy`;
+Know what you're signing with SubClause! #TermsAndConditions #Privacy`;
     
     const tweetUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(tweetText)}`;
     window.open(tweetUrl, '_blank');

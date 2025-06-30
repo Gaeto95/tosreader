@@ -1,15 +1,15 @@
-# Terms TL;DR 📋
+# SubClause 📋
 **Built with Bolt** ⚡
 
 **Read What You're Really Signing** - An AI-powered tool that transforms complex legal documents into clear, understandable insights.
 
 🚀 **[Live Demo](https://subclause.netlify.app)** | Built using [Bolt](https://bolt.new)
 
-![Terms TL;DR Screenshot](https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=600&fit=crop)
+![SubClause Screenshot](https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=600&fit=crop)
 
-## 🚀 What is Terms TL;DR?
+## 🚀 What is SubClause?
 
-Terms TL;DR is a revolutionary web application that democratizes legal document understanding. Using the power of GPT-4, it transforms intimidating Terms of Service, Privacy Policies, and other legal agreements into clear, actionable insights that anyone can understand.
+SubClause is a revolutionary web application that democratizes legal document understanding. Using the power of GPT-4, it transforms intimidating Terms of Service, Privacy Policies, and other legal agreements into clear, actionable insights that anyone can understand.
 
 **The Problem**: Millions of people blindly accept terms and conditions every day, unknowingly signing away rights or agreeing to unfavorable conditions.
 
@@ -46,7 +46,7 @@ In our digital age, legal agreements govern nearly every online interaction. Yet
 - ⏱️ It would take **76 work days** to read all privacy policies encountered in a year
 - 🚨 **Hidden clauses** often limit user rights or enable unexpected data collection
 
-Terms TL;DR bridges this gap, making legal literacy accessible to everyone.
+SubClause bridges this gap, making legal literacy accessible to everyone.
 
 ## 🏃‍♂️ Quick Start
 
@@ -60,7 +60,7 @@ Terms TL;DR bridges this gap, making legal literacy accessible to everyone.
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd terms-tldr
+   cd subclause
    ```
 
 2. **Install dependencies**
@@ -138,7 +138,7 @@ Terms TL;DR bridges this gap, making legal literacy accessible to everyone.
 
 ## 🎨 Design Philosophy
 
-Terms TL;DR follows modern design principles inspired by leading SaaS platforms:
+SubClause follows modern design principles inspired by leading SaaS platforms:
 
 - **🎯 User-Centric**: Every design decision prioritizes user understanding
 - **♿ Accessible**: High contrast ratios, keyboard navigation, and screen reader support
@@ -214,7 +214,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⚠️ Disclaimer
 
-Terms TL;DR is designed for educational purposes and provides general insights about legal documents. The analysis is powered by AI and should not be considered legal advice. For important legal decisions, always consult with a qualified attorney.
+SubClause is designed for educational purposes and provides general insights about legal documents. The analysis is powered by AI and should not be considered legal advice. For important legal decisions, always consult with a qualified attorney.
 
 ## 🙏 Acknowledgments
 
