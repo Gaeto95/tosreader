@@ -15,7 +15,7 @@ Terms TL;DR is a modern web application that uses GPT-4 to analyze Terms of Serv
 - **🚩 Red Flag Detection**: Identifies and categorizes problematic clauses with severity ratings
 - **📝 Plain English Summaries**: Converts legal jargon into clear, actionable insights
 - **🎨 Beautiful UI**: Modern, responsive design with dark/light mode support
-- **📱 Mobile Friendly**: Fully responsive design that works on all devices
+- **📱 Mobile Friendly**: Fully responsivae design that works on all devices
 - **🔍 Text Highlighting**: Visual highlighting of concerning clauses in original documents
 - **📤 Export & Share**: Download PDFs, copy summaries, and share findings on social media
 
